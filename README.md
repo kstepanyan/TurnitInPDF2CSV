@@ -9,20 +9,20 @@ TurnitIn API does not support downloading comments added to student submission u
 1. Download the [released JAR file](https://github.com/kstepanyan/TurnitInPDF2CSV/releases/download/v0.1/TurnitInPDF2CSV.jar) to the desired folder on your machine.
 1. Open the command line terminal.
 1. Navigate to the folder with the downloaded JAR file. 
-        ```sh
+        ```
         cd your_folder_path
         ```
 1. Check whether the downloaded file is in the current folder.
         for MacOS type in
-        ```sh
+        ```
         ls
         ```
         for Windows type in
-        ```sh
+        ```
         dir
         ```
 1. Run the downloaded JAR file
-        ```sh
+        ```
         java -jar TurnitInPDF2CSV.jar
         ```
 1. You should see a screen with a directory chooser, asking user to select an input and output directories (see below).
