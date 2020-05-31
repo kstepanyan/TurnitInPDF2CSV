@@ -37,3 +37,9 @@ TurnitIn API does not support downloading comments added to student submission u
 will be added to the selected output folder.
 *the terminal window will pring all text from the PDF reports and print the resulting extraction data in the end*
           
+## Dependencies
+Java Runtime Environment 8.0 and above. 
+The released JAR comes embedded with the following libraries:
+* ```pdf-box-2.0.19```
+* ```opencsv-5.2```
+* ```poi-4.1.2```
